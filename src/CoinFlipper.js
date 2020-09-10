@@ -29,8 +29,8 @@ class CoinFlipper extends Component {
   flipCoin() {
     let newCoin = choice(this.props.coins);
     this.setState((st) => {
-      let newState = { ...st, currentImg: newCoin, flips: st.flips++ };
-      newCoin.side === "head" ? newState.heads++ : newState.tails++;
+      let newState = { ...st, currentImg: newCoin, flips: st.flips + 1 };
+      newCoin.side === "head" ? (newState.heads += 1) : (newState.tails += 1);
       return newState;
     });
   }
@@ -40,7 +40,7 @@ class CoinFlipper extends Component {
       <div className="CoinFlipper">
         <h1>Let's flip a coin !</h1>
         {this.state.currentImg && <Coin {...this.state.currentImg} />}
-        <button onClick={this.flipCoin}>FLIP COIN</button>
+        <button onClick={this.flipCoin}>Flip Coin</button>
         <p>{`Out of ${this.state.flips} flips , there've been ${this.state.heads} heads & ${this.state.tails} tails`}</p>
       </div>
     );
