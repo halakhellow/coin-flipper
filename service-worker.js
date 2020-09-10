@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/coin-flipper/precache-manifest.71e0ec2d02ddfdfdc471c0499e11f7c5.js"
+  "/coin-flipper/precache-manifest.fba9e36d7ae8262f0c3c99fe62c41183.js"
 );
 
 self.addEventListener('message', (event) => {

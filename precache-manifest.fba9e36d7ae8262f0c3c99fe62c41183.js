@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a948dea1b5bd294cdbbfea750f586ff",
+    "revision": "d441e56f2204ed1580a2033c93a6c36a",
     "url": "/coin-flipper/index.html"
   },
   {
-    "revision": "3cc5e6383a4bcb39d111",
-    "url": "/coin-flipper/static/css/main.809da9c7.chunk.css"
+    "revision": "89749600a50d38ecc7a4",
+    "url": "/coin-flipper/static/css/main.6435c0d7.chunk.css"
   },
   {
     "revision": "ad1a01936bb887064e7f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coin-flipper/static/js/2.816af10f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3cc5e6383a4bcb39d111",
-    "url": "/coin-flipper/static/js/main.c3018d7d.chunk.js"
+    "revision": "89749600a50d38ecc7a4",
+    "url": "/coin-flipper/static/js/main.bd3523b4.chunk.js"
   },
   {
     "revision": "c0b739701cea77232e22",

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/coin-flipper/static/css/main.809da9c7.chunk.css",
-    "main.js": "/coin-flipper/static/js/main.c3018d7d.chunk.js",
-    "main.js.map": "/coin-flipper/static/js/main.c3018d7d.chunk.js.map",
+    "main.css": "/coin-flipper/static/css/main.6435c0d7.chunk.css",
+    "main.js": "/coin-flipper/static/js/main.bd3523b4.chunk.js",
+    "main.js.map": "/coin-flipper/static/js/main.bd3523b4.chunk.js.map",
     "runtime-main.js": "/coin-flipper/static/js/runtime-main.43faeb80.js",
     "runtime-main.js.map": "/coin-flipper/static/js/runtime-main.43faeb80.js.map",
     "static/js/2.816af10f.chunk.js": "/coin-flipper/static/js/2.816af10f.chunk.js",
     "static/js/2.816af10f.chunk.js.map": "/coin-flipper/static/js/2.816af10f.chunk.js.map",
     "index.html": "/coin-flipper/index.html",
-    "precache-manifest.71e0ec2d02ddfdfdc471c0499e11f7c5.js": "/coin-flipper/precache-manifest.71e0ec2d02ddfdfdc471c0499e11f7c5.js",
+    "precache-manifest.fba9e36d7ae8262f0c3c99fe62c41183.js": "/coin-flipper/precache-manifest.fba9e36d7ae8262f0c3c99fe62c41183.js",
     "service-worker.js": "/coin-flipper/service-worker.js",
-    "static/css/main.809da9c7.chunk.css.map": "/coin-flipper/static/css/main.809da9c7.chunk.css.map",
+    "static/css/main.6435c0d7.chunk.css.map": "/coin-flipper/static/css/main.6435c0d7.chunk.css.map",
     "static/js/2.816af10f.chunk.js.LICENSE.txt": "/coin-flipper/static/js/2.816af10f.chunk.js.LICENSE.txt",
     "static/media/head.jpg": "/coin-flipper/static/media/head.682bae0d.jpg",
     "static/media/tail.jpg": "/coin-flipper/static/media/tail.2f7c7194.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.43faeb80.js",
     "static/js/2.816af10f.chunk.js",
-    "static/css/main.809da9c7.chunk.css",
-    "static/js/main.c3018d7d.chunk.js"
+    "static/css/main.6435c0d7.chunk.css",
+    "static/js/main.bd3523b4.chunk.js"
   ]
 }
